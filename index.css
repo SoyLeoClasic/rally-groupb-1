@@ -1,0 +1,26 @@
+	  p {
+	     font-size:30px;
+		
+		 }
+	h3{
+		 text-decoration:underline;
+		 color:#E67E22;
+		 font-size:80px;
+		 font-family:"courier";
+		}
+    .lista {
+		font-size:30px;
+		}
+    .title {font-size:90px;text-align:center;text-decoration:underline;color:red;}
+	
+	body{background-color:#F9E79F;}
+
+    h2 {color:#E67E22;
+	    text-decoration:underline;}
+	.par {font-size:50px;}
+	
+	.x {font-size:40px;}
+	a {color:red;}
+	a:hover {color:orange}
+	.f {text-decoration:underline;font-weigth:bolder;font-size:50px;color:red;}
+	.indice {font-size:30px;}
